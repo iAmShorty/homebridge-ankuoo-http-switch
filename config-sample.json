@@ -1,0 +1,16 @@
+{
+	"platform": "AnkuooHTTPSwitch",
+	"name": "AnkuooHTTPSwitch",
+	"devices": [
+		{
+			"name": "Switch 1",
+			"ip": "192.168.xxx.xxx",
+			"mac": "XX:XX:XX:XX:XX:XX"
+		},
+		{
+			"name": "Switch 2",
+			"ip": "192.168.xxx.xxx",
+			"mac": "XX:XX:XX:XX:XX:XX"
+		}
+	]
+}
