@@ -3,14 +3,8 @@
 
 [![NPM version][npm-image]][npm-url]
 
-[npm-image]: https://img.shields.io/npm/v/homebridge-sonoff.svg
-[npm-url]: https://www.npmjs.com/package/homebridge-sonoff
-
-# Installation
-
-1. Install homebridge: `npm install -g homebridge`
-1. Install homebridge-rcswitch-gpiomem: `npm install -g  homebridge-ankuoo-http-switch`
-1. Update your homebridge configuration file.
+[npm-image]: https://img.shields.io/npm/v/homebridge-ankuoo-http-switch.svg
+[npm-url]: https://www.npmjs.com/package/homebridge-ankuoo-http-switch
 
 # Requirements
 
