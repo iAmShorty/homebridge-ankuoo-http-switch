@@ -11,6 +11,12 @@ let UUIDGen;
 function AnkuooHTTPSwitch(log, config, api) {
   const platform = this;
   platform.log = log;
+	
+  if (!config) {
+    platform.log("Sonoff Plugin has no configuration - Skipping");
+    return;
+  }
+	
   platform.accessories = [];
   platform.config = config;
   platform.config.devices = platform.config.devices || [];
