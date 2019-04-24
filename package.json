@@ -4,9 +4,9 @@
   "description": "Siri / HomeKit control of Ankuoo Rec Switches by way of homebridge.",
   "main": "index.js",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/iAmShorty/homebridge-ankuoo-http",
+  "homepage": "https://github.com/iAmShorty/homebridge-ankuoo-http-switch",
   "bugs": {
-    "url": "https://github.com/iAmShorty/homebridge-ankuoo-http/issues"
+    "url": "https://github.com/iAmShorty/homebridge-ankuoo-http-switch/issues"
   },
   "keywords": [
     "ankuoo",
@@ -15,11 +15,11 @@
     "homebridge-plugin"
   ],
   "author": {
-    "name": "Shorty"
+    "name": "iAmShorty"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iAmShorty/homebridge-ankuoo-http.git"
+    "url": "https://github.com/iAmShorty/homebridge-ankuoo-http-switch.git"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
